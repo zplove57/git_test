@@ -8,7 +8,6 @@ int main(void)
     list1=create_list();
     list2=create_list();
 
-    add_list(list1,2);
     add_list(list1,4);
     add_list(list1,6);
     add_list(list1,8);
