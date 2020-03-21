@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/day2.dir/test.cpp.o  -o day2 -Wl,-rpath,/home/user/Desktop/zptraining/git_test/homework/CMake/build_lib_test libmy_testlib.so 

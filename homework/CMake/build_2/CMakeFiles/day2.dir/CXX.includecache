@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Desktop/zptraining/git_test/homework/CMake/test.cpp
+iostream
+-
+string.h
+-
+iomanip
+-
+vector
+-
+TutorialConfig.h
+/home/user/Desktop/zptraining/git_test/homework/CMake/TutorialConfig.h
+
+TutorialConfig.h
+

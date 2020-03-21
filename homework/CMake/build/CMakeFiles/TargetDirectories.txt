@@ -1,0 +1,3 @@
+/home/user/Desktop/zptraining/git_test/homework/CMake/build/CMakeFiles/rebuild_cache.dir
+/home/user/Desktop/zptraining/git_test/homework/CMake/build/CMakeFiles/day2.dir
+/home/user/Desktop/zptraining/git_test/homework/CMake/build/CMakeFiles/edit_cache.dir
