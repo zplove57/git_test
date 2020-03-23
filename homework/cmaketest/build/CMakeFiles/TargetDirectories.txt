@@ -1,0 +1,4 @@
+/home/user/git_test/newhomework/cmaketest/build/CMakeFiles/rebuild_cache.dir
+/home/user/git_test/newhomework/cmaketest/build/CMakeFiles/khankit.dir
+/home/user/git_test/newhomework/cmaketest/build/CMakeFiles/edit_cache.dir
+/home/user/git_test/newhomework/cmaketest/build/CMakeFiles/my_testlib.dir

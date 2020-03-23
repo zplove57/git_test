@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/git_test/newhomework/cmaketest/Phase3day3.cpp
+khankit.h
+/home/user/git_test/newhomework/cmaketest/khankit.h
+iostream
+-
+string.h
+-
+iomanip
+-
+vector
+-
+mylib/test.h
+/home/user/git_test/newhomework/cmaketest/mylib/test.h
+
+/home/user/git_test/newhomework/cmaketest/mylib/test.h
+stdio.h
+-
+
+khankit.h
+

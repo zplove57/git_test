@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/khankit.dir/Phase3day3.cpp.o  -o khankit libmy_testlib.so -Wl,-rpath,/home/user/git_test/newhomework/cmaketest/build 
