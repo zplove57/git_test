@@ -6,3 +6,6 @@ test.o: test.cpp mylib.h
 	$(CC) $(CFLAGS) $? -c
 mylib.o: mylib.cpp mylib.h
 	$(CC) $(CFLAGS) $? -c
+clean:
+	rm *.o *.gch mytest
+
